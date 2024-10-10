@@ -1,0 +1,49 @@
+.container {
+    width: 400px;
+    /* height: 400px; */
+    border-width: 2px;
+    border-style: solid;
+}
+
+.box1,
+.box2 {
+    width: 70px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.box3 {
+    width: 180px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.footer {
+    width: 375px;
+    /* height: 100px; */
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.f1,
+.f2,
+.f3 {
+    width: 70px;
+    height: 80px;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    margin: 10px;
+}
+
+.f3 {
+    width: 150px;
+}
